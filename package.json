@@ -47,7 +47,7 @@
     "webshot": "^0.18.0",
     "webshot-node": "^0.18.3",
     "websocket-stream": "latest",
-    "file-url": "^3.0.0",
+    "file-url": "^4.0.0",
     "puppeteer": "^19.2.2",
     "tough-cookie": "^4.1.2"
   },
