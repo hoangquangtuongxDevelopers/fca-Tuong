@@ -27,7 +27,7 @@
     "crypto": "latest",
     "crypto-js": "latest",
     "express": "latest",
-    "got": "^11.8.3",
+    "got": "^12.6.0",
     "horizon-sp": "latest",
     "https-proxy-agent": "latest",
     "is-hexcolor": "^1.0.0",
