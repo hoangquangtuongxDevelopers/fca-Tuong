@@ -38,7 +38,7 @@
     "os": "latest",
     "path": "latest",
     "playwright": "^1.29.1",
-    "pretty-ms": "7.0.1",
+    "pretty-ms": "8.0.0",
     "readline": "latest",
     "request": "latest",
     "synthetic-horizon-database": "latest",
