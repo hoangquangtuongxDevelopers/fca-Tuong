@@ -1,14 +1,14 @@
 {
-  "name": "fca-horizon-remake",
+  "name": "fca-Tuong",
   "version": "31.40.12",
-  "description": "Facebook Chat Api Được Remake Bới Horizon Chống Get (available) Và Pay Acc (whynot?)",
+  "description": "Facebook Chat Api Được Remake Bới Dragon Chống Get (available) Và Pay Acc (whynot?)",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
     "lint": "./node_modules/.bin/eslint **.js",
     "prettier": "prettier utils.js src/* --write"
   },
-  "author": "Avery, David, Maude, Benjamin, KanzuWakazaki",
+  "author": "Avery, David, Maude, Benjamin, KanzuWakazaki", Dragon, 
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/HarryWakazaki/Fca-Horizon-Remake/issues"
